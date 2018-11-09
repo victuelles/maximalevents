@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MaximalEvents.com",
+  "name": "Maximal Events and creatives",
+  "description": "MaximalEvents offers Event management,fashion design, creative services, video production",
   "icons": [
     {
       "src": "favicon.ico",
