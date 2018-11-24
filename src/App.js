@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src='../img/logo/splash_logo.png' className="logo" alt="logo" />
+          <img src='../img/logo/logo_white.png' className="logo" alt="logo" />
           <br/>
           <h6   className="red-text text-accent-2">
           event management - fashion design - creative services -  video production
